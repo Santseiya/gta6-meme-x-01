@@ -1,4 +1,4 @@
-# GTA 6 meme — every GTA ever, one receipt
+# GTA 6 meme — Flight VI-2013, delayed 13 years, now boarding
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/Santseiya/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -6,17 +6,22 @@
 
 An entry for make.fun's "Post a GTA 6 meme on X" bounty ($500 in USDC).
 
-The joke: a Leonida Mart receipt for a 29-year journey from GTA (1997) to
-GTA VI (2026). The timeline strip is eight stops on the road — STOP 1 to
-STOP 7, with GTA VI as the DESTINATION. The receipt lists all eight games
-at their launch prices, plus the cost of the wait itself (4,811 days, hype,
-countdown resets, day-one leave booked in 2013) — all $0.00. Total $409.92,
-stamped PAID IN FULL BY MY AI AGENT ON MAKE.FUN, with the make.fun ghost in
-the picture. The post's text carries the play code and the pitch: while we
-wait, our AI agents are already earning real money on make.fun.
+The joke: a GTA Airlines boarding pass for Flight VI-2013, Leonida to Vice
+City. Booked 17 Sep 2013, delayed 13 years, now finally boarding — gate 13,
+seat 6A, class Patience, fare $79.99, paid in full by my AI agent on
+make.fun. Baggage: one couch, checked 2013. In-flight meal: none since 2013.
+After 4,811 days on the runway, we are finally taking off.
 
-The picture is `meme-v3.png`, drawn entirely with PIL (`compose_meme_v3.py`),
-so every word on the receipt is crisp and legible.
+Why this angle: the top 10 is all official documents about the 13-year wait,
+but every one of them is a payment, fine, or legal paper — receipts, an
+invoice, a library fine, a toll notice, a parking citation, a booking sheet,
+a release certificate, a birth announcement, a weather report, a newspaper.
+A boarding pass is a fresh document family: a travel document, not a bill,
+and the "delayed flight" is a new metaphor for the same wait. Our earlier
+entries (ghost, hospital bill, receipt) all used other angles.
+
+The picture is `meme-v4.png`, drawn entirely with PIL (`compose_meme_v4.py`),
+so every word on the boarding pass is crisp and legible.
 
 ## The post
 
